@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +55,7 @@
       <workItem from="1679998339164" duration="20000" />
       <workItem from="1679998387253" duration="2009000" />
       <workItem from="1680075828618" duration="7641000" />
-      <workItem from="1680170385616" duration="356000" />
+      <workItem from="1680170385616" duration="686000" />
     </task>
     <servers />
   </component>

@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="" />
+    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NP9guJu14wIjQ3yVklvc0d7XFB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,6 +57,7 @@
       <workItem from="1679998339164" duration="20000" />
       <workItem from="1679998387253" duration="2009000" />
       <workItem from="1680075828618" duration="7641000" />
+      <workItem from="1680170385616" duration="356000" />
     </task>
     <servers />
   </component>

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="" />
+    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="change Char comics description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charList/CharList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charList/CharList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/MarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/MarvelService.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,11 +62,25 @@
       <workItem from="1679998339164" duration="20000" />
       <workItem from="1679998387253" duration="2009000" />
       <workItem from="1680075828618" duration="7641000" />
-      <workItem from="1680170385616" duration="686000" />
+      <workItem from="1680170385616" duration="1391000" />
+      <workItem from="1680355976302" duration="593000" />
+      <workItem from="1680513118327" duration="2860000" />
     </task>
+    <task id="LOCAL-00001" summary="change Char comics description">
+      <created>1680171186198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680171186198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change Char comics description" />
+    <option name="LAST_COMMIT_MESSAGE" value="change Char comics description" />
   </component>
 </project>

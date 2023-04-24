@@ -1,5 +1,5 @@
 import {Component} from "react";
-class ErrorBundary extends Component{
+class ErrorBoundary extends Component{
         state = {
             error: false
         }
@@ -15,4 +15,4 @@ class ErrorBundary extends Component{
             return this.props.children;
         }
 }
-export default ErrorBundary;
+export default ErrorBoundary;

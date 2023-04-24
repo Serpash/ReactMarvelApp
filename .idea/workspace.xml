@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="solve some problems">
+    <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="creating article for ComicsList.jsx">
+      <change afterPath="$PROJECT_DIR$/src/hooks/http.hook.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/charInfo/CharInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charInfo/CharInfo.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/charList/CharList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charList/CharList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comicsList/ComicsList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comicsList/ComicsList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/errorBundary/ErrorBoundary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/randomChar/RandomChar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/randomChar/RandomChar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/singleComic/SingleComic.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/singleComic/SingleComic.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/MarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/useMarvelService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +33,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NP9guJu14wIjQ3yVklvc0d7XFB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vel24/WebstormProjects/TestReactSpinnerUseState",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vel24/WebstormProjects/ReactMarvelApp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vel24\WebstormProjects\ReactMarvelApp\src\resources\img" />
@@ -72,6 +80,16 @@
       <workItem from="1680603781668" duration="103000" />
       <workItem from="1680607216349" duration="604000" />
       <workItem from="1680786778326" duration="80000" />
+      <workItem from="1680790343976" duration="586000" />
+      <workItem from="1680853527166" duration="16000" />
+      <workItem from="1681294663090" duration="3302000" />
+      <workItem from="1681725926758" duration="1254000" />
+      <workItem from="1681755818603" duration="614000" />
+      <workItem from="1681819733829" duration="3117000" />
+      <workItem from="1681888379811" duration="771000" />
+      <workItem from="1681889176570" duration="532000" />
+      <workItem from="1682319948096" duration="431000" />
+      <workItem from="1682321342697" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="change Char comics description">
       <created>1680171186198</created>
@@ -104,6 +122,7 @@
     <MESSAGE value="change Char comics description" />
     <MESSAGE value="making pagination" />
     <MESSAGE value="solve some problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve some problems" />
+    <MESSAGE value="creating article for ComicsList.jsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating article for ComicsList.jsx" />
   </component>
 </project>

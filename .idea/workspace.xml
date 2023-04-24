@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ba92bb4-6494-4b8c-a279-ee2696174f35" name="Changes" comment="creating article for ComicsList.jsx">
-      <change afterPath="$PROJECT_DIR$/src/hooks/http.hook.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/charInfo/CharInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charInfo/CharInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/charList/CharList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charList/CharList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comicsList/ComicsList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comicsList/ComicsList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/errorBundary/ErrorBundary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/errorBundary/ErrorBoundary.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/randomChar/RandomChar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/randomChar/RandomChar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/singleComic/SingleComic.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/singleComic/SingleComic.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/MarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/useMarvelService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/useMarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/useMarvelService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vel24/WebstormProjects/ReactMarvelApp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vel24/WebstormProjects/ReactMarvelApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vel24\WebstormProjects\ReactMarvelApp\src\resources\img" />
@@ -89,7 +83,8 @@
       <workItem from="1681888379811" duration="771000" />
       <workItem from="1681889176570" duration="532000" />
       <workItem from="1682319948096" duration="431000" />
-      <workItem from="1682321342697" duration="607000" />
+      <workItem from="1682321342697" duration="1286000" />
+      <workItem from="1682335806322" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="change Char comics description">
       <created>1680171186198</created>
@@ -112,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680516074763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creating article for ComicsList.jsx">
+      <created>1682322034273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682322034273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
